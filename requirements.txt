@@ -1,0 +1,8 @@
+# Core data analysis stack for Hotel-Booking-Analysis
+pandas>=2.0,<3.0
+numpy>=1.24,<3.0
+matplotlib>=3.7,<4.0
+
+# Interactive analysis
+notebook>=7.0,<8.0
+jupyter>=1.0,<2.0
